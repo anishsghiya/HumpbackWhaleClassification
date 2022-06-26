@@ -22,6 +22,4 @@ Image Segmentation, Convolutional Neural Networks, Transfer Learning, Class Acti
 | VGG19         | 0.62626 | 0.74747| 0.7894 
 
 ## Author
-Anish Ghiya
-Vaibhav Vijay
-Aditi Ranganath
+Anish Ghiya, Vaibhav Vijay, Aditi Ranganath
